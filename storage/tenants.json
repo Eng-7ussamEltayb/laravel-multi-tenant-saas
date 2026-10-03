@@ -1,0 +1,20 @@
+{
+  "acme": {
+    "company": "ACME Maintenance",
+    "assets": [
+      {
+        "code": "AC-1",
+        "name": "Chiller"
+      }
+    ]
+  },
+  "nova": {
+    "company": "Nova Facilities",
+    "assets": [
+      {
+        "code": "NV-9",
+        "name": "Elevator"
+      }
+    ]
+  }
+}
